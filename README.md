@@ -1,3 +1,3 @@
 # GenIA_web
 
-[web](#)
+[web](https://platohedro.github.io/GenIA_web/)
