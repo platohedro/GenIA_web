@@ -927,6 +927,10 @@ strong {
   h1 {
     font-size: 62px;
   }
+  .gonorrea{
+    margin-top: 50px;
+    padding-left: 100px;
+  }
 
   h2 {
     font-size: 36px;
@@ -1000,7 +1004,9 @@ strong {
     font-size: 14px;
     padding: 10px 20px;
   }
+ 
 }
+
 
 @media screen and (max-width: 480px) {
   h1 {
@@ -1022,5 +1028,6 @@ strong {
   h5 {
     font-size: 20px;
   }
-}
 
+
+}
