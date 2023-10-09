@@ -177,6 +177,14 @@ strong {
   font-size: 32px;
 }
 
+.gonorrea{
+  list-style: none;
+}
+
+.perro{
+  margin-right: 30px;
+}
+
 .icon {
   --size: 1em;
   height: var(--size);
